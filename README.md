@@ -1,7 +1,7 @@
 # Django-Projects
 
 
-Login or Registration Module:
+# Login or Registration Module:
 
 	-> Later On
 
@@ -11,7 +11,7 @@ Login or Registration Module:
 
 
 
-Movie_Recommender Project:
+# Movie_Recommender Project:
 
 Two ways to build movie recommendation system:
 
