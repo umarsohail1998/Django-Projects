@@ -9,7 +9,7 @@ Login or Registration Module:
 
 
 Movie_Recommender Project:
-	Content filtering based: personal watched movies similarites based on genre, interests, age etc
+	-> Content filtering based: personal watched movies similarites based on genre, interests, age etc
 	Collaborative filtering based: trending, or other peoples who are similar with you...
 	There are many movie recommendation algorithms, some popular ones include 
 	-> Jaccard similarity, 
