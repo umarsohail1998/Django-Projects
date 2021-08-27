@@ -3,6 +3,7 @@
 
 Login or Registration Module:
 
+# Later On
 
 
 
@@ -13,6 +14,7 @@ Login or Registration Module:
 Movie_Recommender Project:
 
 Two ways to build movie recommendation system:
+
 	-> Content filtering based: personal watched movies similarites based on genre, interests, age etc
         
 	-> Collaborative filtering based: trending, or other peoples who are similar with you...
